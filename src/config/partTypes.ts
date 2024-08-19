@@ -1,5 +1,7 @@
 import { ConfigPartType } from "../interfaces/Config";
 
+// little change
+
 const configPartTypes: ConfigPartType[] = [
   {
     id: 0,
